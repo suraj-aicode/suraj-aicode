@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Prajapati</h1>
-<h3 align="center">I am a passionate frontend developer from India, focused on building responsive, accessible, and modern web applications. I enjoy turning ideas into reality through clean code, thoughtful design, and continuous learning.</h3>
+<h3 align="center">👋 Hi, I'm a Computer Engineering student passionate about technology, software development, and problem-solving. I enjoy building creative projects, exploring new technologies, and experimenting with innovative ideas. 💻
+
+🚀 I work with web development, AI/ML, and data structures & algorithms, constantly improving my technical skills through hands-on projects and continuous learning. I believe in learning by building, collaborating with others, and turning ideas into practical solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-aicode&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-aicode" /> </p>
 
